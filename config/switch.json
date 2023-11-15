@@ -1,0 +1,9 @@
+{
+  "close": false,
+  "stopTask": false,
+  "tupoLoseMaxNum": 3,
+  "tansuoMaxNum": 100,
+  "openBuffState": false,
+  "isHuijuanTime": false,
+  "--end--line--": null
+}

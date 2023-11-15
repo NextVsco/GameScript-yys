@@ -1,0 +1,73 @@
+{
+  "equipmentIndex": 0,
+  "equipment": [
+    "Windows:///525016",
+    "Windows:///525214",
+    null
+  ],
+  "equipmentState": [
+    {
+      "temp": "old Phone",
+      "url": "ios:///http://169.254.1.83:8100",
+      "link": false,
+      "task": {
+        "loopTaskNum": -1,
+        "scene": [
+          "yuhunh"
+        ]
+      }
+    },
+    {
+      "temp": "iPhone",
+      "url": "ios:///http://169.254.43.80:8100",
+      "link": false,
+      "task": {
+        "loopTaskNum": -1,
+        "scene": [
+          "yuhun"
+        ]
+      }
+    },
+    {
+      "temp": "huawei Phone",
+      "url": "android://127.0.0.1:5037/SED0221720010503",
+      "link": false,
+      "task": {
+        "loopTaskNum": -1,
+        "scene": [
+          "Tupo",
+          "Tansuo"
+        ]
+      }
+    }
+  ],
+  "task": {
+    "loopTaskNum": -1,
+    "scene": [
+      "Tupo",
+      "Tansuo"
+    ]
+  },
+  "yuhunGroup": {
+    "equipmentInfo": [
+      {
+        "isLead": true
+      },
+      {
+        "loc": "4,1"
+      }
+    ],
+    "passTime": 25
+  },
+  "base": {
+    "shishenluTeam": {
+      "tupo": "1,1",
+      "tansuo": "1,1",
+      "yuhun": "2,1",
+      "miwen": "3,1",
+      "liudao_base": "6,1",
+      "liudao_normal": "6,2",
+      "liudao_boss": "6,3"
+    }
+  }
+}
